@@ -6,6 +6,7 @@ Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/emacs.tar.gz
+# Source0-md5:	4149dcee6471c592a39e2705f7cb6a51
 URL:		http://www.devhelp.net/
 Requires:	devhelp >= 0.5.0
 BuildArch:	noarch

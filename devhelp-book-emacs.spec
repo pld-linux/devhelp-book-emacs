@@ -1,5 +1,5 @@
 Summary:	DevHelp book: emacs
-Summary(pl.UTF-8):   Książka do DevHelpa o emacsie
+Summary(pl.UTF-8):	Książka do DevHelpa o emacsie
 Name:		devhelp-book-emacs
 Version:	1.0
 Release:	2

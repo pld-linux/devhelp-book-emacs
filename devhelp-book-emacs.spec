@@ -1,5 +1,5 @@
 Summary:	DevHelp book: emacs
-Summary(pl):	Ksi±¿ka do DevHelpa o emacsie
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o emacsie
 Name:		devhelp-book-emacs
 Version:	1.0
 Release:	2
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about emacs.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o emacsie.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o emacsie.
 
 %prep
 %setup -q -c -n emacs
